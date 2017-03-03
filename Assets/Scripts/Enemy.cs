@@ -59,7 +59,5 @@ public class Enemy : MovingObject {
 
         animator.SetTrigger("EnemyAttack");
 
-
-        throw new NotImplementedException();
     }
 }
